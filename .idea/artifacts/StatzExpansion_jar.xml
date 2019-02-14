@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="StatzExpansion:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/StatzExpansion_jar</output-path>
+    <root id="archive" name="StatzExpansion.jar">
+      <element id="module-output" name="StatzExpansion" />
+    </root>
+  </artifact>
+</component>
